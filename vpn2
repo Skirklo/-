@@ -2,3 +2,5 @@ vless://たひたさあはた@1488:6767?encryption=none&security=none&type=tcp&h
 vless://c0a2e0a4-80e9-11f1-b2ba-00163e6085c8@usa5.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=iP8I5kPR9srUttm3A1iZCmgAKkdCmJO9hd-2dwzOeSQ&sid=37cc6fb11ebf1063&flow=xtls-rprx-vision#🇺🇸 США
 trojan://Djwjjxienkskz-vpnjantit.com@at1.vpnjantit.com:8443?security=tls&type=tcp&headerType=none#🇦🇹 Австрия 
 vless://548832ce-81df-11f1-9146-00163c5f28ea@sau2.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=C0n1chVS2vzSgFDT89y2opdiwZ1eBqJ9ohLDunPgphA&sid=27186bb1738c9300&flow=xtls-rprx-vision#🇸🇦 Саудовская Аравия 
+hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%B5%F0%9F%87%B1%20 Польша Обход🏳️ 
+vless://7d964bd1-f1af-45a5-926f-56238617ac50@217.168.247.209:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=ios&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&mode=gun&authority=&serviceName=neurex#%F0%9F%87%B7%F0%9F%87%BA%20 Россия Обход 🏳️ 
