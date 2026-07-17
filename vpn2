@@ -1,5 +1,5 @@
 vless://たひたさあはた@1488:6767?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D1%83%20%F0%9F%94%83 
 vless://c0a2e0a4-80e9-11f1-b2ba-00163e6085c8@usa5.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=iP8I5kPR9srUttm3A1iZCmgAKkdCmJO9hd-2dwzOeSQ&sid=37cc6fb11ebf1063&flow=xtls-rprx-vision#🇺🇸 США
-vless://eeeed83e-81dc-11f1-959f-00163e01032d@jp3.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=KEZ9sWvB9cv-LxSs4i0ja1TIMTjtlFMQifGwK01B0k8&sid=e7d7e0f98944b6a2&flow=xtls-rprx-vision#🇯🇵 Япония 
+vless://@jp1.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=xDzizsEEbuR_xe2eL3GVKbFAbH2T1mB3ZXSe8IyfTR0&sid=a3a51e3df342746f&flow=xtls-rprx-vision#🇯🇵 Япония 
 
  
