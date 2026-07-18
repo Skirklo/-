@@ -3,4 +3,3 @@ vless://c0a2e0a4-80e9-11f1-b2ba-00163e6085c8@usa5.vpnjantit.com:443?type=tcp&sec
 vless://c467bb9a-82cb-11f1-b4bc-0b37eb28480a@sp1.vpnjantit.com:443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=GxJRHhZIufMGTk-Vod9wl3wt1l_bO-J3LYbGLHXtCUU&sid=1c30a89617c89443&flow=xtls-rprx-vision#🇪🇸 Испания
 vless://7d228df2-82ce-11f1-9e52-0016c03a82e2@lu1.vpnjantit.com:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=Yc6TThNAaPG6pFZfAQYtintyy8KVOQWu08XwCapuTWU&sid=073fd39480ae1445&flow=xtls-rprx-vision#🇱🇺 Люксембург 
 trojan://LunaLight-vpnjantit.com@jp6.vpnjantit.com:8443?security=tls&type=tcp&headerType=none#🇯🇵 Япония 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?encryption=none&security=tls&sni=furrycdn.net&fp=firefox&type=ws&host=furrycdn.net&path=%2Fapi%2Fv1%2Fmake-love-not-war#🇳🇱 Нидерланды Обход 🏳️ 
